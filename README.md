@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Business-Process-Automation-BPA/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Business-Process-Automation-BPA?style=flat-square&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Business-Process-Automation-BPA/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Business-Process-Automation-BPA?style=flat-square&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Business-Process-Automation-BPA/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Business-Process-Automation-BPA?style=flat-square&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Business-Process-Automation-BPA/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -64,9 +64,9 @@ The table below lists category-defining commercial BPA and workflow orchestratio
 
 ## 💻 Open-Source GitHub Projects
 
-The following open-source workflow orchestration engines, BPMN execution runtimes, and automation platforms are ranked in descending order by **GitHub Star Count**. Beside each project name is a live star badge linking directly to the repo's stargazers page.
+The following open-source workflow orchestration engines, BPMN execution runtimes, and automation platforms are ranked in descending order by **GitHub Stars_Count**. Beside each project name is a live Stars_Badge linking directly to the repo's stargazers page.
 
-| Project & Repository | GitHub Stars Badge | License | Core Focus & BPA Description |
+| Project & Repository | GitHub_Stars_Badge | License | Core Focus & BPA Description |
 | :--- | :---: | :--- | :--- |
 | **[n8n](https://github.com/n8n-io/n8n)** | [![n8n stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers) | Sustainable Use License | **Fair-code node-based workflow automation**. Over 400+ native connectors, visual flowchart editor, custom JavaScript/Python execution nodes, and advanced AI-agent capabilities. Ideal for API orchestration, webhook processing, and business task automation. |
 | **[Apache Airflow](https://github.com/apache/airflow)** | [![Airflow stars](https://img.shields.io/github/stars/apache/airflow?style=social&color=white)](https://github.com/apache/airflow/stargazers) | Apache-2.0 | **Programmatic workflow authoring via Python DAGs**. The gold standard for data engineering pipelines, batch job scheduling, and ML workflows. Best suited for backend data pipelines and infrastructure orchestration rather than human-in-the-loop task routing. |
@@ -127,7 +127,7 @@ Contributions are warmly welcomed! Help make this curated directory the best res
 
 1. **Fork** this repository.
 2. Add your tool to either the **SaaS Table** or the **Open-Source Table** (maintaining sorting criteria).
-3. Ensure all links, pricing entries, free tier parameters, and star badges match the documented schema.
+3. Ensure all links, pricing entries, free tier parameters, and Stars_Badges match the documented schema.
 4. Submit a **Pull Request** with a concise description of why the tool should be added.
 
 ---
